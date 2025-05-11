@@ -1,1 +1,1 @@
-# Just My Bot Nothing Special #
+*Just My Bot Nothing Special*
