@@ -23,7 +23,7 @@ for (const folder of commandFolders) {
     const command = require(`./commands/${folder}/${file}`);
     if (command.name && command.execute) {
       client.commands.set(command.name, command);
-      console.log(`Comando carregado: ${command.name}`);
+      console.log(`Comando Carregado: ${command.name}`);
     }
   }
 }
